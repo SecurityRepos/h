@@ -1,4 +1,4 @@
 {
     "can only concatenate str": ["Mətn mesajı fayl kimi yüklənməyə çalışıldığı üçün Brend Userbotunuzda xəta baş verir", "✅ **Həlli**: Əmri Python plugin faylına cavab olaraq yazmağa çalışın."],
     "Could not find the input entity for PeerChannel": ["Botlog Qrupundan çıxmısınız və Brend Userbot botlog ərupuna mesaj göndərə bilmir deyə xəta verir.", "✅ **Həlli:** Yeni Botlog Qrupu açın və idsini herokuda yeniləyin (ətraflı #help 7)"],
-    "This bot can't be used in inline mode (caused by GetInlineBotResultsRequest)": ["Brend Userbot köməkçi assistant botun daxili (inline) rejimi bağlı olduğundan sistemdə xəta baş verir", "@BotFather-dən istifadə edərək assistant botunuzun inline rejimini aktivləşdirin"]}
+    "This bot can't be used in inline mode (caused by GetInlineBotResultsRequest)": ["Brend Userbot köməkçi assistant botun daxili (inline) rejimi bağlı olduğundan sistemdə xəta baş verir", "✅ **Həlli:** @BotFather-dən istifadə edərək assistant botunuzun inline rejimini aktivləşdirin"]}
